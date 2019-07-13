@@ -81,8 +81,8 @@ jacob.left(180)
 jacob.forward(80)'''
 
 #1 Жирафий танец
-'''reginald = Giraffes(100)
-reginald.dance()'''
+reginald = Giraffes(100)
+reginald.dance()
 
 #2 Черепашьи вилы
 '''import turtle
