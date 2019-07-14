@@ -85,7 +85,7 @@ reginald = Giraffes(100)
 reginald.dance()
 
 #2 Черепашьи вилы
-'''import turtle
+import turtle
 
 t = turtle.Pen()
 u = turtle.Pen()
@@ -111,4 +111,4 @@ w.forward(50)
 u.right(90)
 u.forward(25)
 v.left(90)
-v.forward(25)'''
+v.forward(25)
