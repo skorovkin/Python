@@ -68,7 +68,7 @@ if max(guys_numbers) > my_number:
 else:
     print('Ведущий проиграл')"""
 # sum
-'''print(sum(list(range(40, 20, -2))))'''
+print(sum(list(range(40, 20, -2))))
 # open read w
 test_file = open('C:\\Users\\Goo\\Desktop\\test.txt')
 text = test_file.read()
